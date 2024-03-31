@@ -1,1 +1,18 @@
-/bin/
+.classpath
+.project
+.settings/
+
+# Compiled Java class files
+bin/
+target/
+
+# Generated files
+*.class
+*.jar
+
+# IDE-specific files
+*.iml
+.settings/
+.factorypath
+.metadata/
+bin/
